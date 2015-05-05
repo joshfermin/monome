@@ -1,5 +1,6 @@
 
 int numCols = 8;
+int numRows = 8;
 
 // variables to keep track of buttons
 final int REC = 0;
